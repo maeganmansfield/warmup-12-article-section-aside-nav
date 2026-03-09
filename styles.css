@@ -1,0 +1,20 @@
+body{background-color: bisque;
+
+}
+
+.site-header{background-color: dodgerblue;}
+
+.header-site-nav{background-color:aqua}
+
+.main{background-color: cadetblue; padding: 30px;}
+
+.article{background-color: cornflowerblue;}
+
+.about-the-author{background-color: aquamarine;}
+
+.related-foods{background-color: cyan;}
+
+.article-section{background-color: darkcyan;}
+
+.site-footer{background-color: powderblue;}
+.footer-site-nav{background-color: turquoise;}
